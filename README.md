@@ -170,3 +170,7 @@ Para executar a verificação automaticamente assim que o ambiente de trabalho c
 ## 📜 Licença
 
 Distribuído sob a licença MIT. Sinta-se livre para adaptar e compartilhar.
+
+## 📜 ADVERTÊNCIAS E CUIDADOS
+
+Use as instruções por sua conta e risco, sem qualquer garantia para eventuais danos a dispositivos e arquivos. Use a descrição como balizador e identificação de seus hardware e softwares.
